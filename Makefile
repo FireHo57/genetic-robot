@@ -1,4 +1,4 @@
 
 build:
-	g++ main.cpp -o output
+	g++ main.cpp -o output --std=c++11
 
